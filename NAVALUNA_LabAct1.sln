@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NAVALUNA_LabAct1", "NAVALUNA_LabAct1\NAVALUNA_LabAct1.csproj", "{2BAC3E38-FFB9-4F04-9856-39D6669AA19E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BAC3E38-FFB9-4F04-9856-39D6669AA19E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BAC3E38-FFB9-4F04-9856-39D6669AA19E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BAC3E38-FFB9-4F04-9856-39D6669AA19E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BAC3E38-FFB9-4F04-9856-39D6669AA19E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C03E1D01-FB21-433F-BD85-C13609861040}
+	EndGlobalSection
+EndGlobal
